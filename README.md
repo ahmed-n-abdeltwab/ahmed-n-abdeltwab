@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Your title -->
 ## Hi, I'm Ahmed Nasser, a Software Engineer 🚀 from Egypt.
 
