@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Your title -->
-## Hi, I'm Ahmed Nasser, a Software Developer 🚀 from Egypt.
+## Hi, I'm Ahmed Nasser, a Software Engineer 🚀 from Egypt.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
