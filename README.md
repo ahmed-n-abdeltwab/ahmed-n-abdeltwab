@@ -1,6 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Ahmed Nasser, a Software Engineer 🚀 from Egypt.
-
+## Hi there, I'm Ahmed Nasser, born in 🚀 Egypt.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -17,10 +16,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning OOP;
-- 💬 Ask me about anything related to Web Development, design;
-- ⚡️ Fun-Fact: I'm love reading;
+- 👨🏽‍💻 I'm constantly exploring new technologies and techniques to improve my skills and deliver the best possible results for my clients;
+- 🌱 In the future, I hope to become an Artificial Intelligence Researcher and contribute to the development of cutting-edge AI technologies;
+- 💬 Ask me about anything related to Web Development, design, freelancer;
+- ⚡️ Fun-Fact: When I'm not coding, you can find me trying to teach my cat how to type. So far, she's only mastered the 'delete' key;
 - 📫 How to reach me: ahmed.n.abdeltwab@gmail.com;
 
 **Languages and Tools:** 
