@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi there, I'm Ahmed Nasser, born in 🚀 Egypt.
+## Hi there, I'm Ahmed Nasser, Born in 🚀 Egypt.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
