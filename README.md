@@ -23,4 +23,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
