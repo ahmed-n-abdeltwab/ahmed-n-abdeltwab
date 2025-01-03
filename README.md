@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
