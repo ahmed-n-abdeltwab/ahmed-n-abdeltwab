@@ -15,8 +15,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I'm constantly exploring new technologies and techniques to improve my skills and deliver the best possible results for my clients;
-- 🌱 In the future, I hope to become an Artificial Intelligence Researcher and contribute to the development of cutting-edge AI technologies;
+- 👨🏽‍💻 I’m passionate about learning and mastering software engineering, constantly exploring new technologies and methodologies to improve my skills. My aim is to apply these skills to solve complex problems and deliver impactful solutions;
+- 🌱 In the future, I hope to contribute to the development of innovative and scalable software systems that can make a real difference in the world;
 - 💬 Ask me about anything related to Web Development, Freelancer and Egypt;
 - ⚡️ Fun-Fact: When I'm not coding, you can find me trying to teach my cat how to type. So far, she's only mastered the 'delete' key;
 - 📫 How to reach me: ahmed.n.abdeltwab@gmail.com;
