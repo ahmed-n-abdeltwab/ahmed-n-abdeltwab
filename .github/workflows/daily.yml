@@ -8,17 +8,21 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Install
-        run: yarn
-      - name: Update
+      - name: Checkout repository
+        uses: actions/checkout@v2  # Use latest stable version
+
+      - name: Install dependencies
+        run: yarn install  # Ensures dependencies are installed
+
+      - name: Run daily update script
         run: node daily.js
-      - name: Commit and push if changed
-        run: |-
+
+      - name: Commit and push changes if modified
+        run: |
           git diff
           git config --global user.email "bot@github.com"
           git config --global user.name "github-bot"
-          git pull
+          git pull --rebase  # Ensures we're rebasing to avoid merge commits
           git add -A
           git commit -m "🤖 Auto Update Daily Quotations" || exit 0
           git push
