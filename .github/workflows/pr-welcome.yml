@@ -1,13 +1,15 @@
 name: PR Welcome
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened]
 
 jobs:
   welcome:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions-cool/pr-welcome@v1
+      - name: PR Welcome Message
+        uses: actions-cool/pr-welcome@v1
         with:
-          pr-emoji: 'heart'
+          pr-emoji: '❤️'
