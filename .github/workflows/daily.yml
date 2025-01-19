@@ -23,7 +23,10 @@ jobs:
           git diff
           git config --global user.email "bot@github.com"
           git config --global user.name "github-bot"
-          git pull --rebase  # Ensures we're rebasing to avoid merge commits
+          git stash save "Temporary stash before pull"
+          git pull --rebase  # Now it's safe to pull with rebase
+          git stash pop  # Apply the stashed changes back
           git add -A
           git commit -m "🤖 Auto Update Daily Quotations" || exit 0
           git push
+
