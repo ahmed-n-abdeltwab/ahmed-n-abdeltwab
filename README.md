@@ -45,6 +45,6 @@ Bash         1 min           ▒░░░░░░░░░░░░░░░░
 
 <kbd>2025-01-19</kbd>
 
-> - "Life is what happens when you're busy making other plans." – John Lennon
+- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
 
 <!-- Randomly taken from quotations.md -->
