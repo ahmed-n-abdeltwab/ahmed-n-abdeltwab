@@ -65,7 +65,7 @@ function run() {
 
 <kbd>${date}</kbd>
 
-> ${dailyQuotation}
+${dailyQuotation}
 
 <!-- Randomly taken from quotations.md -->
 `;
