@@ -31,11 +31,10 @@ You can use the website to generate badges: https://shields.io/
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   39.87 %
-MDX          1 hr 8 mins     ████████░░░░░░░░░░░░░░░░░   32.42 %
-Vim Script   48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Markdown     1 hr 4 mins     █████████████▒░░░░░░░░░░░   53.92 %
+JavaScript   51 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
+Vim Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
