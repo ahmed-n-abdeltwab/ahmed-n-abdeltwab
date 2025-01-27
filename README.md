@@ -42,8 +42,8 @@ Markdown     0 secs          ██▒░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-01-26</kbd>
+<kbd>2025-01-27</kbd>
 
-- "The only way to do great work is to love what you do." – Steve Jobs
+- "You must be the change you wish to see in the world." – Mahatma Gandhi
 
 <!-- Randomly taken from quotations.md -->
