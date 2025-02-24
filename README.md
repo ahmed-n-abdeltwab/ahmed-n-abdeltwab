@@ -44,8 +44,8 @@ Markdown     3 mins          █▓░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-02-23</kbd>
+<kbd>2025-02-24</kbd>
 
-- "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+- "In the middle of difficulty lies opportunity." – Albert Einstein
 
 <!-- Randomly taken from quotations.md -->
