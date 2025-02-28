@@ -44,8 +44,8 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-02-27</kbd>
+<kbd>2025-02-28</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "Be the change that you wish to see in the world." – Mahatma Gandhi
 
 <!-- Randomly taken from quotations.md -->
