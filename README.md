@@ -44,8 +44,8 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-03-01</kbd>
+<kbd>2025-03-02</kbd>
 
-- "The only way to do great work is to love what you do." – Steve Jobs
+- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
 
 <!-- Randomly taken from quotations.md -->
