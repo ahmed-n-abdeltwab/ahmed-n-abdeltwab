@@ -44,8 +44,8 @@ Docker       0 secs          ░░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-03-07</kbd>
+<kbd>2025-03-08</kbd>
 
-- "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+- "The best way to predict the future is to invent it." – Alan Kay
 
 <!-- Randomly taken from quotations.md -->
