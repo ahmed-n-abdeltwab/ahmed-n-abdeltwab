@@ -1,5 +1,5 @@
 <!-- Your title -->
-## 👋 Hi there! I'm Ahmed Nasser, Born in 🚀 Egypt.
+## 👋 Hey there! I'm Ahmed Nasser, a Software Engineer from 🚀 Egypt.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -15,12 +15,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m passionate about learning and mastering software engineering, constantly exploring new technologies and methodologies to improve my skills;
-- 🔭 My aim is to apply these skills to solve complex problems and deliver impactful solutions;
-- 🌱 In the future, I hope to contribute to the development of innovative and scalable software systems that can make a real difference in the world;
-- 💬 Ask me about anything related to Web Development, Freelancer and Egypt;
-- ⚡️ Fun-Fact: When I'm not coding, you can find me trying to teach my cat how to type. So far, she's only mastered the 'delete' key;
-- 📫 How to reach me: ahmed.n.abdeltwab@gmail.com;
+- 👨‍💻 I’m a **backend developer** who loves working with **TypyScript, and PostgreSQL**.  
+- ⚡ Huge tech fan—especially when it comes to apps and tools that make life easier for devs and regular folks.  
+- 🌱 Always messing around with **new tech**, looking for the best ways to write clean and understandable code.  
+- 🤝 I like **helping others**, whether it's explaining code, fixing bugs, or just making things simpler.  
+- 😸 Fun fact: My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.  
+- 📫 Reach me at: ahmed.n.abdeltwab@gmail.com;
 
 <!-- My Coding Stats -->
 **📊 Stats:**
