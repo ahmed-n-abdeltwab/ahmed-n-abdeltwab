@@ -44,8 +44,8 @@ Python       49 mins         █░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-04-09</kbd>
+<kbd>2025-04-10</kbd>
 
-- "It does not matter how slowly you go as long as you do not stop." – Confucius
+- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
 
 <!-- Randomly taken from quotations.md -->
