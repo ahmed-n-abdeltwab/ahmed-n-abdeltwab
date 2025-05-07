@@ -46,6 +46,6 @@ INI          1 min           ▒░░░░░░░░░░░░░░░░
 
 <kbd>2025-05-07</kbd>
 
-- "Be the change that you wish to see in the world." – Mahatma Gandhi
+- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
 
 <!-- Randomly taken from quotations.md -->
