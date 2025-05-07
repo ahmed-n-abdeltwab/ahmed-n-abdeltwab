@@ -44,8 +44,8 @@ INI          1 min           ▒░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-05-06</kbd>
+<kbd>2025-05-07</kbd>
 
-- "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+- "Be the change that you wish to see in the world." – Mahatma Gandhi
 
 <!-- Randomly taken from quotations.md -->
