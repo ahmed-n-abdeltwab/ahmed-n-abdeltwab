@@ -44,8 +44,8 @@ INI          1 min           ▒░░░░░░░░░░░░░░░░
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-05-07</kbd>
+<kbd>2025-05-08</kbd>
 
-- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
+- "Knowledge enlivens the soul." – Al-Ghazali (Islamic philosopher, 11th century)
 
 <!-- Randomly taken from quotations.md -->
