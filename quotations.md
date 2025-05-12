@@ -18,5 +18,6 @@
 - "The only way to do great work is to love what you do." – Steve Jobs
 - "In the middle of difficulty lies opportunity." – Albert Einstein
 - "Life is what happens when you're busy making other plans." – John Lennon
+- "You don't learn to swim by reading about water!" – Anonymous 
 
 
