@@ -22,10 +22,10 @@ You can use the website to generate badges: https://shields.io/
 - 😸 Fun fact: My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.  
 - 📫 Reach me at: ahmed.n.abdeltwab@gmail.com;
 
-<!-- My Coding Stats -->
-**📊 Stats:**
+**:zap: Recent Activity**
 
-![](https://github-profile-trophy.vercel.app/?username=ahmed-n-abdeltwab&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 **📊 Weekly Coding Stats:**
 <!--START_SECTION:waka-->
