@@ -22,15 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 😸 Fun fact: My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.  
 - 📫 Reach me at: ahmed.n.abdeltwab@gmail.com;
 
-**:zap: Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4644](https://github.com/LadybirdBrowser/ladybird/pull/4644#issuecomment-2873210608) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-2. 🎉 Merged PR [#54](https://github.com/ahmed-n-abdeltwab/blog/pull/54) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-3. 💪 Opened PR [#54](https://github.com/ahmed-n-abdeltwab/blog/pull/54) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-4. 🗣 Commented on [#35884](https://github.com/RocketChat/Rocket.Chat/pull/35884#issuecomment-2872635648) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-5. 🎉 Merged PR [#53](https://github.com/ahmed-n-abdeltwab/blog/pull/53) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-<!--END_SECTION:activity-->
+---
 
 **📊 Weekly Coding Stats:**
 <!--START_SECTION:waka-->
@@ -47,7 +39,21 @@ Markdown     15 mins         ██░░░░░░░░░░░░░░░
 
 ---
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a></h3>
+**:zap: Recent Activity**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#4644](https://github.com/LadybirdBrowser/ladybird/pull/4644#issuecomment-2873210608) in [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+2. 🎉 Merged PR [#54](https://github.com/ahmed-n-abdeltwab/blog/pull/54) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
+3. 💪 Opened PR [#54](https://github.com/ahmed-n-abdeltwab/blog/pull/54) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
+4. 🗣 Commented on [#35884](https://github.com/RocketChat/Rocket.Chat/pull/35884#issuecomment-2872635648) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+5. 🎉 Merged PR [#53](https://github.com/ahmed-n-abdeltwab/blog/pull/53) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
+<!--END_SECTION:activity-->
+
+
+
+---
+
+**<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a>**
 
 <kbd>2025-05-13</kbd>
 
