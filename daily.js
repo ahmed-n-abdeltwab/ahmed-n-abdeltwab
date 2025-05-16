@@ -42,7 +42,7 @@ function run() {
       throw new Error('Insertion point not found in README.md.');
     }
 
-    const before = readme.substring(0, index + 9);
+    const before = readme.substring(0, index + 8);
 
     // Get current date
     const date = getCurrentDate();
