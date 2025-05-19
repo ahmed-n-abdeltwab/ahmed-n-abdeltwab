@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-**📊 Weekly Coding Stats:**
+**📊 Daily Coding Stats:**
 <!--START_SECTION:waka-->
 
 ```txt
