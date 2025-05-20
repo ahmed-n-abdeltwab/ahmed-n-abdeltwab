@@ -5,7 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-n-abdeltwab/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed.n.abdeltwab@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed.n.abdeltwab+githubProfile1@gmail.com)
 
 &nbsp;
 
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 Always messing around with **new tech**, looking for the best ways to write clean and understandable code.  
 - 🤝 I like **helping others**, whether it's explaining code, fixing bugs, or just making things simpler.  
 - 😸 Fun fact: My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.  
-- 📫 Reach me at: ahmed.n.abdeltwab@gmail.com;
+- 📫 Reach me at: [ahmed.n.abdeltwab@gmail.com](mailto:ahmed.n.abdeltwab+githubProfile2@gmail.com);
 
 ---
 
