@@ -57,8 +57,8 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-05-20</kbd>
+<kbd>2025-05-21</kbd>
 
-- "The only way to do great work is to love what you do." – Steve Jobs
+- "The virtue of the scholar over the worshiper is like the virtue of the moon over all the stars." – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
