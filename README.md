@@ -56,8 +56,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-05-21</kbd>
+<kbd>2025-05-22</kbd>
 
-- "The virtue of the scholar over the worshiper is like the virtue of the moon over all the stars." – Prophet Muhammad
+- "A physician without knowledge of astronomy is like a blind man walking on the road." – Al-Razi (Rhazes) (Persian physician and chemist, 9th century)
 
 <!-- Randomly taken from quotations.md -->
