@@ -57,8 +57,8 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-05-23</kbd>
+<kbd>2025-05-24</kbd>
 
-- "Allah loves it when one of you does a job that he does it well" – Prophet Muhammad
+- "A physician without knowledge of astronomy is like a blind man walking on the road." – Al-Razi (Rhazes) (Persian physician and chemist, 9th century)
 
 <!-- Randomly taken from quotations.md -->
