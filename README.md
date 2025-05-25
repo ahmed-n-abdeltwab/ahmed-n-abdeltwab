@@ -57,8 +57,8 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-05-24</kbd>
+<kbd>2025-05-25</kbd>
 
-- "A physician without knowledge of astronomy is like a blind man walking on the road." – Al-Razi (Rhazes) (Persian physician and chemist, 9th century)
+- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
 
 <!-- Randomly taken from quotations.md -->
