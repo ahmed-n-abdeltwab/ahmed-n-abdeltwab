@@ -57,8 +57,8 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-05-25</kbd>
+<kbd>2025-05-26</kbd>
 
-- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
+- "The best way to predict the future is to invent it." – Alan Kay
 
 <!-- Randomly taken from quotations.md -->
