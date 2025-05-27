@@ -57,8 +57,8 @@ YAML                 1 min           ░░░░░░░░░░░░░░�
 
 
 
-<kbd>2025-05-26</kbd>
+<kbd>2025-05-27</kbd>
 
-- "The best way to predict the future is to invent it." – Alan Kay
+- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
 
 <!-- Randomly taken from quotations.md -->
