@@ -57,8 +57,8 @@ JSON                 3 mins          ▒░░░░░░░░░░░░░�
 
 
 
-<kbd>2025-05-27</kbd>
+<kbd>2025-05-28</kbd>
 
-- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
+- "It does not matter how slowly you go as long as you do not stop." – Confucius
 
 <!-- Randomly taken from quotations.md -->
