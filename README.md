@@ -57,8 +57,8 @@ Git Config   12 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-06-01</kbd>
+<kbd>2025-06-02</kbd>
 
-- "Knowledge enlivens the soul." – Al-Ghazali (Islamic philosopher, 11th century)
+- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
 
 <!-- Randomly taken from quotations.md -->
