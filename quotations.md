@@ -20,5 +20,4 @@
 - "Life is what happens when you're busy making other plans." – John Lennon
 - "You don't learn to swim by reading about water!" – Anonymous 
 - "If we can do it, wonderful. If we can’t do it, let’s fail in the most beautiful way" – Jürgen Klopp
-
-
+- "Judge a man by his questions rather than by his answers" – Voltaire
