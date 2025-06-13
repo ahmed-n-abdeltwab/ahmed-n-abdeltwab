@@ -55,8 +55,8 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-06-12</kbd>
+<kbd>2025-06-13</kbd>
 
-- "A physician without knowledge of astronomy is like a blind man walking on the road." – Al-Razi (Rhazes) (Persian physician and chemist, 9th century)
+- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
