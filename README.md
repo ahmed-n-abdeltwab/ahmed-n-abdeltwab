@@ -55,8 +55,8 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-06-13</kbd>
+<kbd>2025-06-14</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
 
 <!-- Randomly taken from quotations.md -->
