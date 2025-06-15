@@ -56,8 +56,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-06-14</kbd>
+<kbd>2025-06-15</kbd>
 
-- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
+- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
