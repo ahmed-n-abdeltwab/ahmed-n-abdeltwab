@@ -56,8 +56,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-<kbd>2025-06-15</kbd>
+<kbd>2025-06-16</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "The only way to do great work is to love what you do." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
