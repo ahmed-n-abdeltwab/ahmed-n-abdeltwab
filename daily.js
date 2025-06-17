@@ -35,7 +35,7 @@ function run() {
   try {
     // Read and validate README.md
     const readme = readFileSafe(readmePath);
-    const insertionPoint = '</a>**';
+    const insertionPoint = '</strong></a></span>';
     const index = readme.indexOf(insertionPoint);
 
     if (index === -1) {
