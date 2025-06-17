@@ -41,8 +41,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 **:zap: Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/)
-2. 💪 Opened PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/)
+1. 🎉 Merged PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+2. 💪 Opened PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 <!--END_SECTION:activity-->
 
 
