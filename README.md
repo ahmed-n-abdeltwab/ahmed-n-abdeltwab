@@ -53,6 +53,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <kbd>2025-06-17</kbd>
 
-- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
+- "Life is what happens when you're busy making other plans." – John Lennon
 
 <!-- Randomly taken from quotations.md -->
