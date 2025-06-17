@@ -1,5 +1,5 @@
 <!-- Your title -->
-## 👋 Hey there! I'm Ahmed Nasser, a Software Engineer from 🚀 Egypt.
+## 👋&nbsp; Hey there! I'm Ahmed Nasser, a Software Engineer from 🚀 Egypt.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**🚀 Talking about Personal Stuffs:**
+**🚀&nbsp; Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-**📊 Daily Coding Stats:**
+**📊&nbsp; Daily Coding Stats:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -38,7 +38,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-**:zap: Recent Activity**
+**:zap:&nbsp; Recent Activity**
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
@@ -49,7 +49,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-**<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a>**
+<span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
 
 
