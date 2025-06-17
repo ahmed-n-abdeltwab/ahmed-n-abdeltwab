@@ -49,7 +49,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-**<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a>**
+**<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /> <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"> Daily Quotations</a>**
 
 
 
