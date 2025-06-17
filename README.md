@@ -41,11 +41,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 **:zap: Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/ahmed-n-abdeltwab/blog/pull/74) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-2. 💪 Opened PR [#74](https://github.com/ahmed-n-abdeltwab/blog/pull/74) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-3. 🎉 Merged PR [#73](https://github.com/ahmed-n-abdeltwab/blog/pull/73) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-4. 💪 Opened PR [#73](https://github.com/ahmed-n-abdeltwab/blog/pull/73) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-5. 🎉 Merged PR [#72](https://github.com/ahmed-n-abdeltwab/blog/pull/72) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
+1. 🎉 Merged PR [#36118](https://github.com/RocketChat/Rocket.Chat/pull/36118) in [RocketChat/Rocket.Chat](https://github.com/ahmed-n-abdeltwab/blog)
 <!--END_SECTION:activity-->
 
 
