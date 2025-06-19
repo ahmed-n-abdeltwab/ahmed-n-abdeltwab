@@ -42,8 +42,8 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 **:zap:&nbsp; Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ahmed-n-abdeltwab/blog/pull/2) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
-2. 💪 Opened PR [#2](https://github.com/ahmed-n-abdeltwab/blog/pull/2) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
+1. 💪 Opened PR [#36246](https://github.com/RocketChat/Rocket.Chat/pull/36246) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+2. 🎉 Merged PR [#2](https://github.com/ahmed-n-abdeltwab/blog/pull/2) in [ahmed-n-abdeltwab/blog](https://github.com/ahmed-n-abdeltwab/blog)
 <!--END_SECTION:activity-->
 
 
