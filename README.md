@@ -52,8 +52,8 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-06-19</kbd>
+<kbd>2025-06-20</kbd>
 
-- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
+- "It does not matter how slowly you go as long as you do not stop." – Confucius
 
 <!-- Randomly taken from quotations.md -->
