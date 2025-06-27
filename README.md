@@ -15,12 +15,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨‍💻 I’m a **backend developer** who loves working with **TypyScript, and PostgreSQL**.  
-- ⚡ Huge tech fan—especially when it comes to apps and tools that make life easier for devs and regular folks.  
-- 🌱 Always messing around with **new tech**, looking for the best ways to write clean and understandable code.  
-- 🤝 I like **helping others**, whether it's explaining code, fixing bugs, or just making things simpler.  
-- 😸 Fun fact: My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.  
-- 📫 Reach me at: [ahmed.n.abdeltwab@gmail.com](mailto:ahmed.n.abdeltwab+githubProfile2@gmail.com);
+* 👨‍💻 **Backend Expertise:** I specialize in developing server-side infrastructure and databases that enable applications to run smoothly.
+* ⚡ **Tech Enthusiast:** I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike.
+* 🌱 **Continuous Learner:** I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code.
+* 🤝 **Collaborative:** I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community.
+* 😸 **Fun Fact:** My cat has been trying to learn how to type, but so far, she only knows the **"delete"** key.
+* 📫 **Reach me at:** [ahmed.n.abdeltwab@gmail.com](mailto:ahmed.n.abdeltwab+githubProfile2@gmail.com);
 
 ---
 
