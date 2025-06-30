@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-* 👨‍💻 **Backend Expertise:** I specialize in developing server-side infrastructure and databases that enable applications to run smoothly.
+* 👨‍💻 **Backend Expertise:** I am passionate about developing server-side infrastructure and databases that ensure applications run smoothly.
 * ⚡ **Tech Enthusiast:** I'm a huge fan of technology, especially apps and tools that make life easier for developers and everyday users alike.
 * 🌱 **Continuous Learner:** I'm always messing around with new tech, looking for the best ways to write clean, efficient, and understandable code.
 * 🤝 **Collaborative:** I enjoy helping others, whether it's explaining complex code, fixing bugs, or simplifying technical concepts for my teammates and the wider community.
