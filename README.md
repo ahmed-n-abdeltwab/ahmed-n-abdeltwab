@@ -41,8 +41,8 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-06-30</kbd>
+<kbd>2025-07-01</kbd>
 
-- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
+- "Judge a man by his questions rather than by his answers" – Voltaire
 
 <!-- Randomly taken from quotations.md -->
