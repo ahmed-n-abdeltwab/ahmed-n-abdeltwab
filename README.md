@@ -41,8 +41,8 @@ Other          1 min           ░░░░░░░░░░░░░░░░�
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-07-06</kbd>
+<kbd>2025-07-07</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic." – Peter Drucker
 
 <!-- Randomly taken from quotations.md -->
