@@ -41,8 +41,8 @@ Other        19 mins         ▓░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-07-19</kbd>
+<kbd>2025-07-20</kbd>
 
-- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
+- "If we can do it, wonderful. If we can’t do it, let’s fail in the most beautiful way" – Jürgen Klopp
 
 <!-- Randomly taken from quotations.md -->
