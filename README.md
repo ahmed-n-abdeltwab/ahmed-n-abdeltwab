@@ -41,8 +41,8 @@ YAML         11 mins         ▒░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-07-22</kbd>
+<kbd>2025-07-23</kbd>
 
-- "The virtue of the scholar over the worshiper is like the virtue of the moon over all the stars." – Prophet Muhammad
+- "Your most unhappy customers are your greatest source of learning." – Bill Gates
 
 <!-- Randomly taken from quotations.md -->
