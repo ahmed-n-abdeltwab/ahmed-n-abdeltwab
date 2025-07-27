@@ -41,8 +41,8 @@ XML               9 mins          ▒░░░░░░░░░░░░░░�
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-07-26</kbd>
+<kbd>2025-07-27</kbd>
 
-- "Knowledge enlivens the soul." – Al-Ghazali (Islamic philosopher, 11th century)
+- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
 
 <!-- Randomly taken from quotations.md -->
