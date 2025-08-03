@@ -28,11 +28,11 @@ You can use the website to generate badges: https://shields.io/
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        5 hrs 55 mins   █████████████████░░░░░░░░   67.69 %
-Java              1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Markdown          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-YAML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Java Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript        7 hrs 9 mins    █████████████████░░░░░░░░   68.21 %
+Java              1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Markdown          1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+YAML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Java Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
