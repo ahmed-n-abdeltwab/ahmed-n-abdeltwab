@@ -41,8 +41,8 @@ Java Properties   15 mins         ▓░░░░░░░░░░░░░░�
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-03</kbd>
+<kbd>2025-08-04</kbd>
 
-- "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic." – Peter Drucker
+- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
