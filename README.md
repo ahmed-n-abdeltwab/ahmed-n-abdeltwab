@@ -41,8 +41,8 @@ XML               10 mins         ▒░░░░░░░░░░░░░░�
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-04</kbd>
+<kbd>2025-08-05</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "Judge a man by his questions rather than by his answers" – Voltaire
 
 <!-- Randomly taken from quotations.md -->
