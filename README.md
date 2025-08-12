@@ -41,8 +41,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-11</kbd>
+<kbd>2025-08-12</kbd>
 
-- "The best way to predict the future is to invent it." – Alan Kay
+- "It does not matter how slowly you go as long as you do not stop." – Confucius
 
 <!-- Randomly taken from quotations.md -->
