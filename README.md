@@ -41,8 +41,8 @@ Bash         6 mins          ░░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-19</kbd>
+<kbd>2025-08-20</kbd>
 
-- "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
+- "The scientist is not the person who gives the right answers, but the one who asks the right questions." – Claude Lévi-Strauss
 
 <!-- Randomly taken from quotations.md -->
