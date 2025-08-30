@@ -41,8 +41,8 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-29</kbd>
+<kbd>2025-08-30</kbd>
 
-- "Knowledge enlivens the soul." – Al-Ghazali (Islamic philosopher, 11th century)
+- "He who seeks knowledge, God will make the path to Paradise easy for him." – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
