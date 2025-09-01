@@ -41,8 +41,8 @@ Python       4 mins          ▒░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-08-31</kbd>
+<kbd>2025-09-01</kbd>
 
-- "Life is what happens when you're busy making other plans." – John Lennon
+- "It does not matter how slowly you go as long as you do not stop." – Confucius
 
 <!-- Randomly taken from quotations.md -->
