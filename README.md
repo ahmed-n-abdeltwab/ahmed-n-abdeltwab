@@ -41,8 +41,8 @@ Other        13 mins         ▓░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-09-02</kbd>
+<kbd>2025-09-03</kbd>
 
-- "Judge a man by his questions rather than by his answers" – Voltaire
+- "The virtue of the scholar over the worshiper is like the virtue of the moon over all the stars." – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
