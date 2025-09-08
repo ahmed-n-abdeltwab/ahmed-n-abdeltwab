@@ -41,8 +41,8 @@ CSV          11 mins         ▓░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-09-07</kbd>
+<kbd>2025-09-08</kbd>
 
-- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
+- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
 
 <!-- Randomly taken from quotations.md -->
