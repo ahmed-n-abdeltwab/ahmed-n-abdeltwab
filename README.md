@@ -41,8 +41,8 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-09-08</kbd>
+<kbd>2025-09-09</kbd>
 
-- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
+- "Your most unhappy customers are your greatest source of learning." – Bill Gates
 
 <!-- Randomly taken from quotations.md -->
