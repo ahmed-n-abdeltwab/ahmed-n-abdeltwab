@@ -40,8 +40,8 @@ Markdown     0 secs          ▒░░░░░░░░░░░░░░░░
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-09-17</kbd>
+<kbd>2025-09-18</kbd>
 
-- "A physician without knowledge of astronomy is like a blind man walking on the road." – Al-Razi (Rhazes) (Persian physician and chemist, 9th century)
+- "In the middle of difficulty lies opportunity." – Albert Einstein
 
 <!-- Randomly taken from quotations.md -->
