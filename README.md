@@ -25,21 +25,6 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-**📊&nbsp; Daily Coding Stats:**
-<!--START_SECTION:waka-->
-
-```txt
-Other        5 mins          ████████████░░░░░░░░░░░░░   48.21 %
-Bash         2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-JSON         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-YAML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-INI          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
 <kbd>2025-09-25</kbd>
