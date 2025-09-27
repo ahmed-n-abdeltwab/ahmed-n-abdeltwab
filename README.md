@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-09-26</kbd>
+<kbd>2025-09-27</kbd>
 
-- "The best way to predict the future is to invent it." – Alan Kay
+- "You don't learn to swim by reading about water!" – Anonymous
 
 <!-- Randomly taken from quotations.md -->
