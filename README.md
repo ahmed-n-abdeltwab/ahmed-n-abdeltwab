@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-10-09</kbd>
+<kbd>2025-10-10</kbd>
 
-- "The virtue of the scholar over the worshiper is like the virtue of the moon over all the stars." – Prophet Muhammad
+- "He who has health has hope; and he who has hope has everything." – Ibn Sina (Avicenna) (father of early modern medicine)
 
 <!-- Randomly taken from quotations.md -->
