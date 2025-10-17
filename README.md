@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-10-16</kbd>
+<kbd>2025-10-17</kbd>
 
-- "He who seeks knowledge, God will make the path to Paradise easy for him." – Prophet Muhammad
+- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
