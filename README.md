@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-10-30</kbd>
+<kbd>2025-10-31</kbd>
 
-- "I'm not in this world to live up to your expectations and you're not in this world to live up to mine" – Bruce Lee
+- "Allah loves it when one of you does a job that he does it well" – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
