@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-11-29</kbd>
+<kbd>2025-11-30</kbd>
 
-- "The only way to do great work is to love what you do." – Steve Jobs
+- "Your most unhappy customers are your greatest source of learning." – Bill Gates
 
 <!-- Randomly taken from quotations.md -->
