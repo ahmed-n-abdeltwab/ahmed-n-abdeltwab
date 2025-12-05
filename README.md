@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2025-12-04</kbd>
+<kbd>2025-12-05</kbd>
 
-- "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic." – Peter Drucker
+- "If we can do it, wonderful. If we can’t do it, let’s fail in the most beautiful way" – Jürgen Klopp
 
 <!-- Randomly taken from quotations.md -->
