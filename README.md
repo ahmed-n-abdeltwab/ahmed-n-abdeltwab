@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2026-01-15</kbd>
+<kbd>2026-01-16</kbd>
 
-- "If we can do it, wonderful. If we can’t do it, let’s fail in the most beautiful way" – Jürgen Klopp
+- "Allah loves it when one of you does a job that he does it well" – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
