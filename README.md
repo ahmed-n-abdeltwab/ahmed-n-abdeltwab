@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2026-02-12</kbd>
+<kbd>2026-02-13</kbd>
 
-- "The only way to do great work is to love what you do." – Steve Jobs
+- "He who seeks knowledge, God will make the path to Paradise easy for him." – Prophet Muhammad
 
 <!-- Randomly taken from quotations.md -->
