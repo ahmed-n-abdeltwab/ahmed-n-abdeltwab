@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2026-03-13</kbd>
+<kbd>2026-03-14</kbd>
 
-- "Judge a man by his questions rather than by his answers" – Voltaire
+- "Knowledge enlivens the soul." – Al-Ghazali (Islamic philosopher, 11th century)
 
 <!-- Randomly taken from quotations.md -->
