@@ -27,8 +27,8 @@ You can use the website to generate badges: https://shields.io/
 
 <span><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" style="pointer-events: none;" />&nbsp; <a href="https://github.com/ahmed-n-abdeltwab/ahmed-n-abdeltwab/blob/master/quotations.md"><strong>Daily Quotations</strong></a></span>
 
-<kbd>2026-05-23</kbd>
+<kbd>2026-05-24</kbd>
 
-- "The best way to predict the future is to invent it." – Alan Kay
+- "Your time is limited, so don’t waste it living someone else’s life." – Steve Jobs
 
 <!-- Randomly taken from quotations.md -->
